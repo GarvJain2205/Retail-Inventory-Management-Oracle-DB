@@ -1,4 +1,4 @@
--- Earl Tilluck
+-- Garv Jain
 -- This is a package that contains 25 subprograms and supporting constructs for the JTA database.
 
 
