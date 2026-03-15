@@ -1,4 +1,4 @@
--- Earl Tilluck
+-- Garv Jain
 -- This SQL script creates the JTA database with all tables, constraints and sample data.
 
 -- Begin
